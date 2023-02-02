@@ -35,6 +35,7 @@ button {
   line-height: 125%;
 
   background: transparent;
+  cursor: pointer;
 }
 
 #form-habits {
@@ -94,6 +95,7 @@ input {
 
   border: 2px solid #27272A;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 input:checked {
